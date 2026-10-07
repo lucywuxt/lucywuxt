@@ -11,7 +11,7 @@
 ## Featured Projects
 - 💼 [HireEd](https://github.com/lucywuxt/HireEd) — TypeScript project exploring hiring and recruitment workflows
 - 🍴 [Fridge2Fork](https://github.com/lucywuxt/Fridge2Fork) — Swift app for turning ingredients into recipe ideas
-- 🍿 [Movie Review Analysis](https://github.com/lucywuxt/Movie-Review-Analysis) — Sentiment analysis project for movie reviews using Python and Jupyter
+- 🍿 [Movie Review Analysis](https://github.com/lucywuxt/Movie-Reviews-Sentiment-Analysis) — Sentiment analysis project for movie reviews using Python and Jupyter
 
 ## Tech & Interests
 - 🛠️ Languages: Python, Java, JavaScript, TypeScript, C#, SQL, Swift
