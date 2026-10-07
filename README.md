@@ -1,9 +1,8 @@
-Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-5-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Public Repositories](https://img.shields.io/badge/Public%20Repos-12-blue?style=flat-square)](https://github.com/lucywuxt?tab=repositories)
 
 ## About
-👋 Heyo, I'm Lucy Wu. I'm a student at the University of Illinois Urbana-Champaign and I enjoy building interactive software, hackathon projects, and data-driven applications with a focus on full-stack web development, Python, and JavaScript/TypeScript.
+👋 Hi, I'm Lucy Wu. I enjoy building interactive software, hackathon projects, and data-driven applications with a focus on full-stack web development, Python, and JavaScript/TypeScript.
 
 - 📍 Location: Potomac, MD
 - 🎓 Education: University of Illinois Urbana-Champaign
