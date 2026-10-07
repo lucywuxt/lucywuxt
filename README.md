@@ -9,9 +9,9 @@
 - 📅 Hacking Since: 2022
 
 ## Featured Projects
-- 💼 HireEd — TypeScript project exploring hiring and recruitment workflows — [github.com/lucywuxt/HireEd](url)
-- 🍴 Fridge2Fork — Swift app for turning ingredients into recipe ideas — [github.com/lucywuxt/Fridge2Fork](url)
-- 🍿 Movie Review Analysis — Sentiment analysis project for movie reviews using Python and Jupyter — [github.com/lucywuxt/Movie-Review-Analysis](url)
+- 💼 [HireEd](github.com/lucywuxt/HireEd) — TypeScript project exploring hiring and recruitment workflows
+- 🍴 [Fridge2Fork](github.com/lucywuxt/Fridge2Fork) — Swift app for turning ingredients into recipe ideas
+- 🍿 [Movie Review Analysis](github.com/lucywuxt/Movie-Review-Analysis) — Sentiment analysis project for movie reviews using Python and Jupyter
 
 ## Tech & Interests
 - 🛠️ Languages: Python, Java, JavaScript, TypeScript, C#, SQL, Swift
