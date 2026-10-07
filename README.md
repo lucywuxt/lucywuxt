@@ -1,4 +1,4 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-5-brightgreen?style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-5-brightgreen?style=flat-square)](https://github.com/HackIllinois)
 [![Public Repositories](https://img.shields.io/badge/Public%20Repos-12-blue?style=flat-square)](https://github.com/lucywuxt?tab=repositories)
 
 ## About
